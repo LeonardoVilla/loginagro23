@@ -3,7 +3,7 @@ export default function Login(){
     return(
         <View style={ style.container}>
             <Text>
-                Só Alegria!
+                Só Alegria! Ao Máximo!
             </Text>
         </View>
     )
